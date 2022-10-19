@@ -20,7 +20,11 @@ I am a web developer who enoys learning new technologies, frameworks, and concep
 - 🎾: When I am not coding, I like to play tennis, eating mangoes, or watching Survivor.
 - 📧: How to reach me: <jym.bocala@gmail.com>
 
-<br>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/jym-bocala-6339b4237" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jym-bocala-6339b4237" height="30" width="40" /></a>
+<a href="https://instagram.com/jymintech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jymintech" height="30" width="40" /></a>
+</p>
 
 
 ---
@@ -61,6 +65,9 @@ I am a web developer who enoys learning new technologies, frameworks, and concep
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jymbocala&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="jymbocala" /></p>
 
 <!---
 jymbocala/jymbocala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
