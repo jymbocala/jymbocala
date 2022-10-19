@@ -1,21 +1,15 @@
 <div id="header" align="center">
     <h1>Hi there! 👋</h1>
+    <img align="center" alt="Coding" width="750" src="https://i.imgur.com/x1n414q.jpg">
 </div>
-<div id="badges" align="center">
-    <a href="https://www.linkedin.com/in/jym-bocala-6339b4237/">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-    <a href="https://www.instagram.com/jymintech/">
-    <img src="https://img.shields.io/badge/instagram-DD2A7B?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/></a>    
-</div>
-
 
 
 
 ### 👨‍💻 About Me:
 
-I am a web developer who enoys learning new technologies, frameworks, and concepts. I strive to be a better developer each day.
+I am a web developer who enjoys learning new technologies, frameworks, and concepts. I strive to be a better developer each day.
 
-- 🇦🇺: I am Filipino living in Melbourne, Australia.
+- 📍 Melbourne, Australia.
 - 🌱: Currently, I am learning React, and developing a Travel App.
 - 🎾: When I am not coding, I like to play tennis, eating mangoes, or watching Survivor.
 - 📧: How to reach me: <jym.bocala@gmail.com>
@@ -28,16 +22,6 @@ I am a web developer who enoys learning new technologies, frameworks, and concep
 
 
 ---
-
-## 📚 Education:
-
-![Udacity](https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=15B8E6) 
-- [Front End Web Developer Nanodegree](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd0011?utm_source=gsem_brand&utm_medium=ads_r&utm_campaign=12906460312_c_individuals&utm_term=121838871739&utm_keyword=front%20end%20udacity_e&gclid=Cj0KCQjwnbmaBhD-ARIsAGTPcfUuN44bo-c-K3331xxQl9n3MuMTIiBLy83p09YtN-OOQvsrHg7nEGYaAu6GEALw_wcB)
-
-![Scrimba](https://img.shields.io/badge/scrimba-2B283A?style=for-the-badge&logo=scrimba&logoColor=white)
-- [The Frontend Developer Career Path](https://www.codecademy.com/learn/paths/front-end-engineer-career-path)
-- [Learn React](https://scrimba.com/learn/learnreact)
- 
 
 ## 🛠️ Languages and Tools:
 
@@ -66,6 +50,16 @@ I am a web developer who enoys learning new technologies, frameworks, and concep
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 
 
+## 📚 Education:
+
+![Udacity](https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=15B8E6) 
+- [Front End Web Developer Nanodegree](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd0011?utm_source=gsem_brand&utm_medium=ads_r&utm_campaign=12906460312_c_individuals&utm_term=121838871739&utm_keyword=front%20end%20udacity_e&gclid=Cj0KCQjwnbmaBhD-ARIsAGTPcfUuN44bo-c-K3331xxQl9n3MuMTIiBLy83p09YtN-OOQvsrHg7nEGYaAu6GEALw_wcB)
+
+![Scrimba](https://img.shields.io/badge/scrimba-2B283A?style=for-the-badge&logo=scrimba&logoColor=white)
+- [The Frontend Developer Career Path](https://www.codecademy.com/learn/paths/front-end-engineer-career-path)
+- [Learn React](https://scrimba.com/learn/learnreact)
+
+--- 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jymbocala&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="jymbocala" /></p>
 
