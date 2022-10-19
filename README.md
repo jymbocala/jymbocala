@@ -11,7 +11,7 @@
 
 
 
-### 👨‍💻: About Me:
+### 👨‍💻 About Me:
 
 I am a web developer who enoys learning new technologies, frameworks, and concepts. I strive to be a better developer each day.
 
@@ -25,7 +25,7 @@ I am a web developer who enoys learning new technologies, frameworks, and concep
 
 ---
 
-## 📚: Education:
+## 📚 Education:
 
 ![Udacity](https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=15B8E6) 
 - [Front End Web Developer Nanodegree](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd0011?utm_source=gsem_brand&utm_medium=ads_r&utm_campaign=12906460312_c_individuals&utm_term=121838871739&utm_keyword=front%20end%20udacity_e&gclid=Cj0KCQjwnbmaBhD-ARIsAGTPcfUuN44bo-c-K3331xxQl9n3MuMTIiBLy83p09YtN-OOQvsrHg7nEGYaAu6GEALw_wcB)
@@ -35,16 +35,16 @@ I am a web developer who enoys learning new technologies, frameworks, and concep
 - [Learn React](https://scrimba.com/learn/learnreact)
  
 
-## :hammer_and_wrench: Languages and Tools:
+## 🛠️ Languages and Tools:
 
-### 💻: Languages:
+### 💻 Languages:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 
-### 📖: Frameworks & Libraries:
+### 📖 Frameworks & Libraries:
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
@@ -53,7 +53,7 @@ I am a web developer who enoys learning new technologies, frameworks, and concep
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
 
-### 🔨: Tools:
+### 🔨 Tools:
 
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
