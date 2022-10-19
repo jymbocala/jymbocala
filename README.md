@@ -1,6 +1,5 @@
 <div id="header" align="center">
     <h1>Hi there! 👋</h1>
-    <img src="gh_icon.png">
 </div>
 <div id="badges" align="center">
     <a href="https://www.linkedin.com/in/jym-bocala-6339b4237/">
@@ -22,7 +21,7 @@ I am a web developer who enoys learning new technologies, frameworks, and concep
 
 - 🇦🇺: I am Filipino living in Melbourne, Australia.
 - 🌱: Currently, I am learning React, and developing a Travel App.
-- 🎾: When I am not coding, I am like to play tennis, eating mangoes, or watching Survivor.
+- 🎾: When I am not coding, I like to play tennis, eating mangoes, or watching Survivor.
 - 📧: How to reach me: <jym.bocala@gmail.com>
 
 <br>
