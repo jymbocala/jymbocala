@@ -8,11 +8,7 @@
     <img src="https://img.shields.io/badge/instagram-DD2A7B?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/></a>    
 </div>
 
-<div align="center">
-  <img src="https://tenor.com/view/software-software-development-gif-24712790" width="750" />
-</div>
 
----
 
 
 ### 👨‍💻: About Me:
