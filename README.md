@@ -11,7 +11,7 @@ I am a web developer who enjoys learning new technologies, frameworks, and conce
 
 - 📍 Melbourne, Australia.
 - 🌱: Currently, I am learning React, and developing a Travel App.
-- 🎾: When I am not coding, I like to play tennis, eat sour mangoes, and watch Survivor.
+- 🎾: When I am not coding, I like to play tennis, eat sour mangoes, and watching Survivor.
 - 📧: How to reach me: <jym.bocala@gmail.com>
 
 <h3 align="left">Connect with me:</h3>
