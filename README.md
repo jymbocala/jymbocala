@@ -53,7 +53,7 @@ I am a web developer who enjoys learning new technologies, frameworks, and conce
 ## 📚 Education:
 
 ![Udacity](https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=15B8E6) 
-- [Front End Web Developer Nanodegree](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd0011?utm_source=gsem_brand&utm_medium=ads_r&utm_campaign=12906460312_c_individuals&utm_term=121838871739&utm_keyword=front%20end%20udacity_e&gclid=Cj0KCQjwnbmaBhD-ARIsAGTPcfUuN44bo-c-K3331xxQl9n3MuMTIiBLy83p09YtN-OOQvsrHg7nEGYaAu6GEALw_wcB)
+- [Front End Web Developer Nanodegree](https://confirm.udacity.com/PDFJSY3R)
 
 ![Scrimba](https://img.shields.io/badge/scrimba-2B283A?style=for-the-badge&logo=scrimba&logoColor=white)
 - [The Frontend Developer Career Path](https://scrimba.com/learn/frontend)
