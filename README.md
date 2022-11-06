@@ -9,7 +9,7 @@
 
 I am a web developer who enjoys learning new technologies, frameworks, and concepts. I strive to be a better developer each day.
 
-- 📍 Melbourne, Australia.
+- 📍 Melbourne, Australia 🇦🇺.
 - 🌱: Currently, I am deep diving into React. 
 - 🎾: When I am not coding, I enjoy playing tennis, eating sour mangoes, and watching Survivor.
 - 📧: How to reach me: <jym.bocala@gmail.com>
