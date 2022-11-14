@@ -11,7 +11,7 @@ I am a web developer who enjoys learning new technologies, frameworks, and conce
 
 - 📍 Melbourne, Australia 🇦🇺.
 - 🌱: Currently, I am making a Meme Generator Web App using React.
-- 🎾: When I am not coding, I enjoy playing tennis, eating sour mangoes, and watching Survivor.
+- 🎾: When I am not coding, I enjoy playing tennis, eating mangoes, and watching Survivor.
 - 📧: How to reach me: <jym.bocala@gmail.com>
 
 <h3 align="left">Connect with me:</h3>
