@@ -10,7 +10,7 @@
 I am a web developer who enjoys learning new technologies, frameworks, and concepts. I strive to be a better developer each day.
 
 - 📍 Melbourne, Australia 🇦🇺.
-- 🌱: Currently, I am making a Meme Generator Web App using React.
+- 🌱: Currently, I am making a Tenzies game using React!
 - 🎾: When I am not coding, I enjoy playing tennis, eating mangoes, and watching Survivor.
 - 📧: How to reach me: <jym.bocala@gmail.com>
 
