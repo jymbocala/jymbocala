@@ -58,6 +58,7 @@ I am a web developer who enjoys learning new technologies, frameworks, and conce
 ![Scrimba](https://img.shields.io/badge/scrimba-2B283A?style=for-the-badge&logo=scrimba&logoColor=white)
 - [The Frontend Developer Career Path](https://scrimba.com/learn/frontend)
 - [Learn React](https://scrimba.com/learn/learnreact)
+- [Advanced React](https://scrimba.com/learn/learnreact](https://scrimba.com/certificate/uYyDKaAN/greact)
 
 --- 
 
