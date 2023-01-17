@@ -10,7 +10,7 @@
 I am a web developer who enjoys learning new technologies, frameworks, and concepts. I strive to be a better developer each day.
 
 - 📍 Melbourne, Australia 🇦🇺.
-- 🌱: Currently, I am going through the Typescript course from Codecademy!
+- 🌱: Currently, I am updating my app 'Quick Lesson Planner' to include topics learnt from Scrimba's Advanced React Course!
 - 🎾: When I am not coding, I enjoy playing tennis, eating mangoes, and watching Survivor.
 - 📧: How to reach me: <jym.bocala@gmail.com>
 
@@ -58,7 +58,7 @@ I am a web developer who enjoys learning new technologies, frameworks, and conce
 ![Scrimba](https://img.shields.io/badge/scrimba-2B283A?style=for-the-badge&logo=scrimba&logoColor=white)
 - [The Frontend Developer Career Path](https://scrimba.com/learn/frontend)
 - [Learn React](https://scrimba.com/learn/learnreact)
-- [Advanced React](https://scrimba.com/learn/learnreact](https://scrimba.com/certificate/uYyDKaAN/greact)
+- [Advanced React](https://scrimba.com/certificate/uYyDKaAN/greact)
 
 --- 
 
