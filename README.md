@@ -10,7 +10,7 @@
 I am a web developer who enjoys learning new technologies, frameworks, and concepts. I strive to be a better developer each day.
 
 - 📍 Melbourne, Australia 🇦🇺.
-- 🌱: Currently, I am updating my app 'Quick Lesson Planner' to include topics learnt from Scrimba's Advanced React Course!
+- 🌱: Currently, I am learning Svelte and TailwindCSS. I am creating a simple todo web app to practice these skills.
 - 🎾: When I am not coding, I enjoy playing tennis, eating mangoes, and watching Survivor.
 - 📧: How to reach me: <jym.bocala@gmail.com>
 
