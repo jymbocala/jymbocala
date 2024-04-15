@@ -10,8 +10,7 @@
 I am a web developer who enjoys learning new technologies, frameworks, and concepts. I strive to be a better developer each day.
 
 - 📍 Melbourne, Australia 🇦🇺.
-- 🌱: Currently, I am learning Svelte and TailwindCSS. I am creating a simple todo web app to practice these skills.
-- 🎾: When I am not coding, I enjoy playing tennis, eating mangoes, and watching Survivor.
+- 🌱: Currently a Junior Web Developer at GPI Apollo.
 - 📧: How to reach me: <jym.bocala@gmail.com>
 
 <h3 align="left">Connect with me:</h3>
@@ -54,6 +53,8 @@ I am a web developer who enjoys learning new technologies, frameworks, and conce
 
 
 ## 📚 Education:
+
+Diploma of Information Technology
 
 ![Udacity](https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=15B8E6) 
 - [Front End Web Developer Nanodegree](https://confirm.udacity.com/PDFJSY3R)
