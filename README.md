@@ -54,10 +54,9 @@ I am a web developer who enjoys learning new technologies, frameworks, and conce
 
 ## 📚 Education:
 **Academy of IT**
+<hr>
 Diploma of Information Technology
-
-<br>
-<br>
+<hr>
 
 ![Udacity](https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=15B8E6) 
 - [Front End Web Developer Nanodegree](https://confirm.udacity.com/PDFJSY3R)
