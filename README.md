@@ -54,7 +54,7 @@ I am a web developer who enjoys learning new technologies, frameworks, and conce
 
 ## 📚 Education:
 **Academy of IT**
-<hr>
+
 Diploma of Information Technology
 <hr>
 
