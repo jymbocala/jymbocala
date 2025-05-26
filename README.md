@@ -10,7 +10,7 @@
 I am a web developer who enjoys learning new technologies, frameworks, and concepts. I strive to be a better developer each day.
 
 - 📍 Melbourne, Australia 🇦🇺.
-- 🌱: Currently a Junior Web Developer at GPI Apollo.
+- 🌱: Currently a Web Developer at GPI Apollo.
 - 📧: How to reach me: <jym.bocala@gmail.com>
 
 <h3 align="left">Connect with me:</h3>
