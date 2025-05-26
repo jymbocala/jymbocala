@@ -14,10 +14,10 @@ I am a web developer who enjoys learning new technologies, frameworks, and conce
 ---
 
 ### 🏢 Professional Work
-[![Work Contributions](https://img.shields.io/badge/Work%20GitHub-ApolloBikes-black?style=for-the-badge&logo=github)](https://github.com/Jym-Apollo)
+[![Work Contributions](https://img.shields.io/badge/Work%20GitHub-JymApollo-black?style=for-the-badge&logo=github)](https://github.com/Jym-Apollo)
 
 
-I contribute professionally for Apollo Bikes, where I focus on:
+I contribute professionally for GPI Apollo, where I focus on:
 
 - Building custom tools and automation for our eCommerce workflow  
 - Integrating Shopify with internal systems like Exo and Lightspeed  
